@@ -1,6 +1,6 @@
 # 🔬 Victor Huggo Lessa Rosolem
 
-**`Pesquisador | Físico | Cientista de Dados`**
+**`MSc. Modelagem Computacional | BSc. Física | Pesquisador | Cientista de Dados`**
 
 Me chamo Victor Huggo Lessa Rosolem, tenho 28 anos e natural de Americana/SP. Sou Mestre em Modelagem Computacional e Bacharel em Física com ênfase em Oceanos pela Universidade Federal do Rio Grande (FURG). Sou apaixonado por ciência de dados aplicada ao meio ambiente — especialmente criosfera, dinâmica de geleiras, oceanografia física e sensoriamento remoto.
 
