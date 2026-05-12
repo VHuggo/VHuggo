@@ -58,19 +58,19 @@ Me chamo Victor Huggo Lessa Rosolem, tenho 28 anos e natural de Americana/SP. So
 />
 <img 
     align="left" 
-    alt="Google Earth Engine" 
-    title="Google Earth Engine"
+    alt="Google Cloud" 
+    title="Google Cloud"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
 <img 
     align="left" 
-    alt="QGIS" 
-    title="QGIS"
+    alt="NGINX" 
+    title="NGINX"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qgis/qgis-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
 />
 
 <br/>
