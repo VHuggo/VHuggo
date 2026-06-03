@@ -1,12 +1,14 @@
+🌐 **English** | [Português](README.pt-br.md)
+
 # 🔬 Victor Huggo Lessa Rosolem
 
-**`MSc. Modelagem Computacional | BSc. Física | Pesquisador | Cientista de Dados`**
+**`MSc. Computational Modeling | BSc. Physics | Researcher | Data Scientist`**
 
-Me chamo Victor Huggo Lessa Rosolem, tenho 28 anos e natural de Americana/SP. Sou Mestre em Modelagem Computacional e Bacharel em Física com ênfase em Oceanos pela Universidade Federal do Rio Grande (FURG). Sou apaixonado por ciência de dados aplicada ao meio ambiente — especialmente criosfera, dinâmica de geleiras, oceanografia física e sensoriamento remoto.
+My name is Victor Huggo Lessa Rosolem, I'm 28 years old and from Americana/SP, Brazil. I hold a Master's degree in Computational Modeling and a Bachelor's in Physics (Ocean emphasis) from the Federal University of Rio Grande (FURG). I'm passionate about data science applied to the environment — especially cryosphere, glacier dynamics, physical oceanography, and remote sensing.
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🛠️ Languages & Technologies
 
 <img 
     align="left" 
@@ -86,22 +88,23 @@ Me chamo Victor Huggo Lessa Rosolem, tenho 28 anos e natural de Americana/SP. So
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Academic Background
 
-- **Mestrado** em Modelagem Computacional — FURG (2023–2025)  
-  *Modelagem aplicada à dinâmica de balanço de massa da Geleira Grey, Chile*
-- **Graduação** em Física Bacharelado (ênfase em Oceanos) — FURG (2019–2022)  
-  *Variabilidade da Corrente Circumpolar Antártica e o Gelo Marinho Antártico*
+- **Master's** in Computational Modeling — FURG (2023–2025)  
+  *Applied modeling of the mass balance dynamics of Grey Glacier, Chile*
+- **Bachelor's** in Physics (Ocean emphasis) — FURG (2019–2022)  
+  *Variability of the Antarctic Circumpolar Current and Antarctic Sea Ice*
+
 ---
 
-### 🔬 Áreas de Atuação
+### 🔬 Areas of Expertise
 
-- Criosfera e dinâmica de geleiras
-- Sensoriamento Remoto e Google Earth Engine
-- Oceanografia Física
-- Modelagem Computacional
-- Ciência de Dados e análise de séries temporais/espaciais
-- Bancos de dados relacionais e espaciais (PostgreSQL/PostGIS)
-- Sistemas de Informação Geográfica (QGIS, GeoServer, GeoNode)
+- Cryosphere and glacier dynamics
+- Remote Sensing and Google Earth Engine
+- Physical Oceanography
+- Computational Modeling
+- Data Science and time/spatial series analysis
+- Relational and spatial databases (PostgreSQL/PostGIS)
+- Geographic Information Systems (QGIS, GeoServer, GeoNode)
 
 ---
